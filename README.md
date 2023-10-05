@@ -1,7 +1,11 @@
 HTML
+-----
 CSS
+----
 JavaScript
+---------
 Firebase
+--------
 
 Shopping cart app 
 ------------------
